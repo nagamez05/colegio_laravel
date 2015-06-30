@@ -1,0 +1,17 @@
+{
+  "name": "colegio_laravel",
+  "version": "0.0.1",
+  "authors": [
+    "noiver <nagamez05@live.com>"
+  ],
+  "description": "paquetes del proyecto colegio_laravel",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "localhost:8000",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "bootstrap-material-design": "~0.3.0"
+  }
+}
